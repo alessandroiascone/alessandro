@@ -1,4 +1,4 @@
-# Smart CV - Alessandro Iascone
+Pubblicazione Smart CV Alessandro Iascone
 
 Pagina professionale statica pronta per GitHub Pages.
 
